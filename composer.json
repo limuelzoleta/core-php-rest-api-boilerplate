@@ -1,0 +1,10 @@
+{
+  "name": "symfony/dotenv",
+  "type": "project",
+  "description": "Slife Api Project",
+  "license" : "MIT",
+  "require": {
+    "vlucas/phpdotenv": "^3.4",
+    "firebase/php-jwt": "^5.0"
+  }
+}
