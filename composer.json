@@ -5,6 +5,6 @@
   "license" : "MIT",
   "require": {
     "vlucas/phpdotenv": "^3.4",
-    "firebase/php-jwt": "^5.0"
+    "firebase/php-jwt": "^6.0"
   }
 }
